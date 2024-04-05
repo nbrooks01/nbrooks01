@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathaniel, an <a href="[(https://www.linkedin.com/in/nathaniel-brooks-409889301/)]">IT Professional</h1>
+<h1>Hi, I'm Nathaniel, an <a href="https://www.linkedin.com/in/nathaniel-brooks-409889301/">IT Professional</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
